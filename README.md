@@ -5,5 +5,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0585-investments-in-2016) |
+| [1415-students-and-examinations](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1415-students-and-examinations) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
