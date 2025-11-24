@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0585-investments-in-2016) |
 | [0620-not-boring-movies](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1161-project-employees-i) |
+| [1164-product-price-at-a-given-date](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1292-immediate-food-delivery-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1415-students-and-examinations](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1415-students-and-examinations) |
