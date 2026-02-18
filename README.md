@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0072-edit-distance) |
 ## Hash Table
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
