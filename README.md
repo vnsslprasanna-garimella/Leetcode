@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
