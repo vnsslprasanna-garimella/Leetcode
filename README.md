@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -135,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0190-reverse-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -189,4 +193,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
