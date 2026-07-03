@@ -1,0 +1,69 @@
+from collections import deque
+from typing import List
+
+class Solution:
+    def findMaxPathScore(self, edges: List[List[int]], online: List[bool], k: int) -> int:
+        n = len(online)
+
+        # Build graph
+        graph = [[] for _ in range(n)]
+        indegree = [0] * n
+        max_edge = 0
+
+        for u, v, c in edges:
+            graph[u].append((v, c))
+            indegree[v] += 1
+            max_edge = max(max_edge, c)
+
+        # Topological Sort (Kahn's Algorithm)
+        q = deque()
+        for i in range(n):
+            if indegree[i] == 0:
+                q.append(i)
+
+        topo = []
+        while q:
+            u = q.popleft()
+            topo.append(u)
+            for v, _ in graph[u]:
+                indegree[v] -= 1
+                if indegree[v] == 0:
+                    q.append(v)
+
+        # Check if there exists a valid path with minimum edge >= limit
+        def check(limit):
+            INF = float('inf')
+            dist = [INF] * n
+            dist[0] = 0
+
+            for u in topo:
+                if dist[u] == INF:
+                    continue
+
+                # Skip offline intermediate nodes
+                if u != 0 and u != n - 1 and not online[u]:
+                    continue
+
+                for v, cost in graph[u]:
+                    if cost < limit:
+                        continue
+                    if v != n - 1 and not online[v]:
+                        continue
+
+                    if dist[u] + cost < dist[v]:
+                        dist[v] = dist[u] + cost
+
+            return dist[n - 1] <= k
+
+        left, right = 0, max_edge
+        ans = -1
+
+        while left <= right:
+            mid = (left + right) // 2
+            if check(mid):
+                ans = mid
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        return ans
