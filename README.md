@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Segment Tree
 |  |
 | ------- |
@@ -225,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
