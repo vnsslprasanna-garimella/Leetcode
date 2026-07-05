@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0283-move-zeroes) |
 | [1200-minimum-absolute-difference](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
