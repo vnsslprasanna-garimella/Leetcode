@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -168,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -251,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -293,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
