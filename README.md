@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0283-move-zeroes) |
 | [1200-minimum-absolute-difference](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
