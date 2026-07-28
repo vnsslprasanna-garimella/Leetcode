@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
