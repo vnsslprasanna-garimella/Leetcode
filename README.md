@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0179-largest-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
