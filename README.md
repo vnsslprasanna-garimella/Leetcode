@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
+| [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
