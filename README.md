@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
