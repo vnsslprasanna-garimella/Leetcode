@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -368,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
