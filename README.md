@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0415-add-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
