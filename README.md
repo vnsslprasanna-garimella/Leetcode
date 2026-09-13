@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Combinatorics
 |  |
