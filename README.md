@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0415-add-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0039-combination-sum) |
+| [1096-brace-expansion-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
