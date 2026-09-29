@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
@@ -442,4 +445,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
