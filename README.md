@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0035-search-insert-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
