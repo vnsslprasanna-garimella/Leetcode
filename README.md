@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/0415-add-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
