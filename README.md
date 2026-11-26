@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/vnsslprasanna-garimella/Leetcode/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
